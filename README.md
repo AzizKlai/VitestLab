@@ -31,24 +31,28 @@ $ npm run start:prod
 ```bash
 # unit tests
 $ npm run test
+```
+![Exemple d'image](img/test.PNG)
 
-
-
+```bash
 # test coverage
 $ npm run test:coverage
 ```
+![Exemple d'image](img/testcoverage1.PNG)
+![Exemple d'image](img/testcoverage2.PNG)
 
 
-## Présentation de Vitest
+## Introducing Vitest
 
-### Introduction à Vitest : qu’est-ce que c’est ?
-Vitest est un framework de tests unitaires pour JavaScript. Il offre une syntaxe simple et expressive pour écrire des tests unitaires.
+### Introduction to Vitest: What is it?
+Vitest is a unit testing framework for JavaScript. It provides a simple and expressive syntax for writing unit tests.
 
-### Raisons d’utiliser Vitest pour les tests unitaires
-- Facilité d’utilisation : Vitest est facile à apprendre et à utiliser pour les développeurs JavaScript.
-- Performance : Vitest offre des performances élevées pour l’exécution des tests unitaires.
+### Reasons to Use Vitest for Unit Testing
+- Ease of Use: Vitest is easy to learn and use for JavaScript developers.
+- Performance: Vitest offers high performance for running unit tests.
 
-### Caractéristiques principales de Vitest
-- Syntaxe intuitive : Les tests unitaires avec Vitest sont écrits de manière déclarative et facile à comprendre.
-- Support des promesses : Vitest prend en charge les tests asynchrones avec des promesses.
+### Key Features of Vitest
+- Intuitive Syntax: Unit tests with Vitest are written declaratively and are easy to understand.
+- Promise Support: Vitest supports asynchronous tests with promises.
+
 
