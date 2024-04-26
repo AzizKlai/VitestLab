@@ -32,14 +32,14 @@ $ npm run start:prod
 # unit tests
 $ npm run test
 ```
-![Exemple d'image](img/test.PNG)
+![test](img/test.PNG)
 
 ```bash
 # test coverage
 $ npm run test:coverage
 ```
-![Exemple d'image](img/testcoverage1.PNG)
-![Exemple d'image](img/testcoverage2.PNG)
+![testcoverage](img/testcoverage1.PNG)
+![testcoverage](img/testcoverage2.PNG)
 
 
 ## Introducing Vitest
