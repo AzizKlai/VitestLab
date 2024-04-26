@@ -1,7 +1,7 @@
 
 
 ## Overview
- This is an e-commerce backend project, featuring implemented Vitest unit tests. 
+ This is backend project, featuring implemented Vitest unit tests. 
  The purpose of this lab is to familiarize with [Vitest](https://vitest.dev/) unit tests.
 
 
